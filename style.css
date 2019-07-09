@@ -1,4 +1,10 @@
 /* The side navigation menu */
+.navi {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 10px; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+/* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
