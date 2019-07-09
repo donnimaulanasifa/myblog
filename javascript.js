@@ -11,7 +11,8 @@
       });
     });
 });
-    
+
+<script>jQuery(function($){$(document).ready(function(){$('#isi').load("https://donnim.github.io/web/index.html");});});</script>
 
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
