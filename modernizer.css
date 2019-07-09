@@ -1,6 +1,5 @@
-.html {margin-top: 0px !important;}
-@media screen and ( max-width: 782px ) {
-  .html { margin-top: 0px !important; }}
+.rmtop {margin-top: 0px !important;}
+@media screen and ( max-width: 782px ) {.rmtop { margin-top: 0px !important; }}
 
 /* The side navigation menu */
 .navi {
