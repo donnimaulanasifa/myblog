@@ -12,7 +12,7 @@
     });
 });
 
-jQuery(function($){$(document).ready(function(){$('#isi').load("https://donnim.github.io/web/index.html");});});
+jQuery(function($){$(document).ready(function(){$('#isi').load("https://donnim.github.io/web/isi.html");});});
 
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
