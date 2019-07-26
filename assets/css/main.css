@@ -3,6 +3,8 @@
 body{margin:0;line-height: 2;font-family: 'Muli', sans-serif;}
 .ontitle{font-family: 'Dancing Script', cursive;font-size: 40px;line-height: 1}
 
+.relative{position:relative
+
 /* Color */
 .red{color:#f7484e}
 .border-red{border-color:#f7484e}
