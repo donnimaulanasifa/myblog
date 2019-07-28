@@ -1,0 +1,20 @@
+# Site settings
+title: Donni Maulana Sipa - UI/UX Designer and Developer
+description: "I am a UI/UX Designer and Developer from Tasikmalaya, Indonesia."
+url: "https://donnim.cf"
+author:
+  name: "Donni Maulana Sipa"
+  email: "mdoni12@gmail.com"
+  url: "https://donnim.cf"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog), or leave just a /
+source: .
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+gems: 
+    - jekyll-sitemap
