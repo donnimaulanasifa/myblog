@@ -25,7 +25,7 @@ github_username:  donnim
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+   - jekyll-seo-tag
 
 gems: 
     - jekyll-sitemap
