@@ -3,7 +3,7 @@
     <title>donnimsifa</title>
     <link href="https://donnimsifa.github.io/web/feed.xml" rel="self" />
     <link href="https://donnimsifa.github.io/web" />
-    <updated>2021-09-17T04:33:19+07:00</updated>
+    <updated>2021-09-17T04:55:01+07:00</updated>
     <author>
         <name>donnimsifa</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://donnimsifa.github.io/web/this-is-an-example.html"/>
         <id>https://donnimsifa.github.io/web/this-is-an-example.html</id>
 
-        <updated>2021-09-17T04:33:19+07:00</updated>
+        <updated>2021-09-17T04:55:01+07:00</updated>
             <summary>
                 <![CDATA[
-                    hello world
+                    hello world yeah
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>hello world</p>
+<p>yeah</p>
             ]]>
         </content>
     </entry>
