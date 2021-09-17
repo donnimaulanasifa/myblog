@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>donnimsifa</title>
-    <link href="https://donnimsifa.github.io/web/feed.xml" rel="self" />
-    <link href="https://donnimsifa.github.io/web" />
+    <link href="https://donnimsifa.github.io/blog/feed.xml" rel="self" />
+    <link href="https://donnimsifa.github.io/blog" />
     <updated>2021-09-17T04:55:01+07:00</updated>
     <author>
         <name>donnimsifa</name>
     </author>
-    <id>https://donnimsifa.github.io/web</id>
+    <id>https://donnimsifa.github.io/blog</id>
 
     <entry>
         <title>this is an example</title>
         <author>
             <name>donnimsifa</name>
         </author>
-        <link href="https://donnimsifa.github.io/web/this-is-an-example.html"/>
-        <id>https://donnimsifa.github.io/web/this-is-an-example.html</id>
+        <link href="https://donnimsifa.github.io/blog/this-is-an-example.html"/>
+        <id>https://donnimsifa.github.io/blog/this-is-an-example.html</id>
 
         <updated>2021-09-17T04:55:01+07:00</updated>
             <summary>
